@@ -1,0 +1,10 @@
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\TaskTest.exe.config
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\TaskTest.exe
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\TaskTest.pdb
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\DataModels.dll
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\Newtonsoft.Json.dll
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\DataModels.pdb
+D:\learning\TaskHackathonSTCI\TaskTest\bin\Debug\Newtonsoft.Json.xml
+D:\learning\TaskHackathonSTCI\TaskTest\obj\Debug\TaskTest.csprojResolveAssemblyReference.cache
+D:\learning\TaskHackathonSTCI\TaskTest\obj\Debug\TaskTest.exe
+D:\learning\TaskHackathonSTCI\TaskTest\obj\Debug\TaskTest.pdb

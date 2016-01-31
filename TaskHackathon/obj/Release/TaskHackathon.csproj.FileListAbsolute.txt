@@ -1,0 +1,16 @@
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\TaskHackathon.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\TaskHackathon.pdb
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\DataModels.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Microsoft.WindowsAzure.Configuration.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Microsoft.WindowsAzure.Storage.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Newtonsoft.Json.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\DataModels.pdb
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Microsoft.WindowsAzure.Storage.xml
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Newtonsoft.Json.xml
+D:\learning\TaskHackathonSTCI\TaskHackathon\obj\Release\TaskHackathon.csprojResolveAssemblyReference.cache
+D:\learning\TaskHackathonSTCI\TaskHackathon\obj\Release\TaskHackathon.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\obj\Release\TaskHackathon.pdb
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Destination.txt
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\Source.txt
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\texteditor.txt
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Release\TrainInfo.txt

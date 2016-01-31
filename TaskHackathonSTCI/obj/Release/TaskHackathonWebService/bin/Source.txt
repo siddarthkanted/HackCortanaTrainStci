@@ -1,0 +1,7 @@
+secunderabad	SC
+sc	SC
+bct	BCT
+hyderabad	SC
+mumbai	BCT
+New Delhi	NDLS
+ndls	NDLS

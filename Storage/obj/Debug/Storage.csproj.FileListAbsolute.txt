@@ -1,0 +1,7 @@
+D:\learning\TaskHackathonSTCI\Storage\bin\Debug\Storage.dll
+D:\learning\TaskHackathonSTCI\Storage\bin\Debug\Storage.pdb
+D:\learning\TaskHackathonSTCI\Storage\bin\Debug\Newtonsoft.Json.dll
+D:\learning\TaskHackathonSTCI\Storage\bin\Debug\Newtonsoft.Json.xml
+D:\learning\TaskHackathonSTCI\Storage\obj\Debug\Storage.csprojResolveAssemblyReference.cache
+D:\learning\TaskHackathonSTCI\Storage\obj\Debug\Storage.dll
+D:\learning\TaskHackathonSTCI\Storage\obj\Debug\Storage.pdb

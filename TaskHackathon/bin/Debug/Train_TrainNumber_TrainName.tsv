@@ -1,0 +1,460 @@
+02849	02849	shm sc spl
+shm sc spl	02849	shm sc spl
+02850	02850	sc shm spl
+sc shm spl	02850	sc shm spl
+07109	07109	hyb qln spl
+hyb qln spl	07109	hyb qln spl
+07110	07110	qln hyb exp
+qln hyb	07110	qln hyb exp
+07207	07207	bza sc spl
+bza sc spl	07207	bza sc spl
+07407	07407	tpty adb spl
+tpty adb spl	07407	tpty adb spl
+07408	07408	tpty ak spl
+tpty ak spl	07408	tpty ak spl
+07427	07427	sc cct  spl
+sc cct  spl	07427	sc cct  spl
+07507	07507	ak qln spl
+ak qln spl	07507	ak qln spl
+07509	07509	adb qln spl
+adb qln spl	07509	adb qln spl
+07613	07613	nzb qln spl
+nzb qln spl	07613	nzb qln spl
+07614	07614	nizamabad exp
+nizamabad	07614	nizamabad exp
+08500	08500	sc vskp spl
+sc vskp spl	08500	sc vskp spl
+08501	08501	vskp sc spl
+vskp sc spl	08501	vskp sc spl
+11019	11019	konark express
+konark	11019	konark express
+11020	11020	konark express
+konark	11020	konark express
+11303	11303	hyb kop express
+hyb kop	11303	hyb kop express
+11304	11304	kop hyb express
+kop hyb	11304	kop hyb express
+12025	12025	shatabdi exp
+shatabdi	12025	shatabdi exp
+12026	12026	pune shatabdi
+pune shatabdi	12026	pune shatabdi
+12193	12193	ypr jbp exp
+ypr jbp	12193	ypr jbp exp
+12194	12194	jbp ypr sup exp
+jbp ypr sup	12194	jbp ypr sup exp
+12213	12213	duronto express
+duronto	12213	duronto express
+12214	12214	ypr duronto exp
+ypr duronto	12214	ypr duronto exp
+12219	12219	sc duronto exp
+sc duronto	12219	sc duronto exp
+12220	12220	duronto ac exp
+duronto ac	12220	duronto ac exp
+12251	12251	wainganga exp
+wainganga	12251	wainganga exp
+12252	12252	wainganga exp
+wainganga	12252	wainganga exp
+12285	12285	nzm duronto ex
+nzm duronto	12285	nzm duronto ex
+12286	12286	nzm sc duronto
+nzm sc duronto	12286	nzm sc duronto
+12437	12437	rajdhani exp
+rajdhani	12437	rajdhani exp
+12438	12438	nzm sc rjdhni
+nzm sc rjdhni	12438	nzm sc rjdhni
+12513	12513	sc ghy exp
+sc ghy	12513	sc ghy exp
+12514	12514	ghy sc express
+ghy sc	12514	ghy sc express
+12589	12589	gkp sc express
+gkp sc	12589	gkp sc express
+12590	12590	gorakhpur exp
+gorakhpur	12590	gorakhpur exp
+12591	12591	gkp ypr express
+gkp ypr	12591	gkp ypr express
+12592	12592	gorakhpur exp
+gorakhpur	12592	gorakhpur exp
+12603	12603	hyderabad exp
+hyderabad	12603	hyderabad exp
+12604	12604	chennai exp
+chennai	12604	chennai exp
+12647	12647	kongu express
+kongu	12647	kongu express
+12648	12648	kongu express
+kongu	12648	kongu express
+12649	12649	sampark kranti
+sampark kranti	12649	sampark kranti
+12650	12650	ktk smprk k exp
+ktk smprk k	12650	ktk smprk k exp
+12701	12701	husainsagar exp
+husainsagar	12701	husainsagar exp
+12702	12702	hussainsagar ex
+hussainsagar	12702	hussainsagar ex
+12703	12703	falaknuma exp
+falaknuma	12703	falaknuma exp
+12704	12704	falaknuma exp
+falaknuma	12704	falaknuma exp
+12705	12705	gnt sc exp
+gnt sc	12705	gnt sc exp
+12706	12706	sc gnt exp
+sc gnt	12706	sc gnt exp
+12707	12707	a p smprk krnti
+a p smprk krnti	12707	a p smprk krnti
+12708	12708	ap smprk kranti
+ap smprk kranti	12708	ap smprk kranti
+12709	12709	simhapuri exp
+simhapuri	12709	simhapuri exp
+12710	12710	simhapuri exp
+simhapuri	12710	simhapuri exp
+12713	12713	satavahana exp
+satavahana	12713	satavahana exp
+12714	12714	satavahana exp
+satavahana	12714	satavahana exp
+12719	12719	aii hyb sf exp
+aii hyb sf	12719	aii hyb sf exp
+12720	12720	hyb aii sup exp
+hyb aii sup	12720	hyb aii sup exp
+12721	12721	nizamuddin exp
+nizamuddin	12721	nizamuddin exp
+12722	12722	dakshin express
+dakshin	12722	dakshin express
+12723	12723	telangana  exp
+telangana	12723	telangana  exp
+12724	12724	telangana exp
+telangana	12724	telangana exp
+12727	12727	godavari exp
+godavari	12727	godavari exp
+12728	12728	godavari exp
+godavari	12728	godavari exp
+12731	12731	tpty sc exp
+tpty sc	12731	tpty sc exp
+12732	12732	sc tpty sup exp
+sc tpty sup	12732	sc tpty sup exp
+12733	12733	narayanadri exp
+narayanadri	12733	narayanadri exp
+12734	12734	narayanadri exp
+narayanadri	12734	narayanadri exp
+12735	12735	ypr garib rath
+ypr garib rath	12735	ypr garib rath
+12736	12736	sc garib rath
+sc garib rath	12736	sc garib rath
+12737	12737	goutami exp
+goutami	12737	goutami exp
+12738	12738	goutami exp
+goutami	12738	goutami exp
+12739	12739	vskp garib rath
+vskp garib rath	12739	vskp garib rath
+12740	12740	vskp garib rath
+vskp garib rath	12740	vskp garib rath
+12747	12747	palnadu exp
+palnadu	12747	palnadu exp
+12748	12748	palnadu exp
+palnadu	12748	palnadu exp
+12759	12759	charminar exp
+charminar	12759	charminar exp
+12760	12760	charminar exp
+charminar	12760	charminar exp
+12763	12763	padmavathi exp
+padmavathi	12763	padmavathi exp
+12764	12764	padmavati exp
+padmavati	12764	padmavati exp
+12765	12765	tpty ami sup ex
+tpty ami sup	12765	tpty ami sup ex
+12766	12766	ami tpty sup ex
+ami tpty sup	12766	ami tpty sup ex
+12769	12769	seven hills exp
+seven hills	12769	seven hills exp
+12770	12770	seven hills exp
+seven hills	12770	seven hills exp
+12771	12771	sc ngp sup exp
+sc ngp sup	12771	sc ngp sup exp
+12772	12772	ngp sc sup exp
+ngp sc sup	12772	ngp sc sup exp
+12773	12773	shm sc ac exp
+shm sc ac	12773	shm sc ac exp
+12774	12774	sc shm ac exp
+sc shm ac	12774	sc shm ac exp
+12775	12775	cocanada exp
+cocanada	12775	cocanada exp
+12776	12776	cocanada exp
+cocanada	12776	cocanada exp
+12783	12783	vskp sc ac exp
+vskp sc ac	12783	vskp sc ac exp
+12784	12784	sc  vskp ac exp
+sc  vskp ac	12784	sc  vskp ac exp
+12785	12785	bangalore exp
+bangalore	12785	bangalore exp
+12786	12786	kacheguda exp
+kacheguda	12786	kacheguda exp
+12791	12791	sc dnr express
+sc dnr	12791	sc dnr express
+12792	12792	secunderabad e
+secunderabad	12792	secunderabad e
+12797	12797	venkatadri exp
+venkatadri	12797	venkatadri exp
+12798	12798	venkatadri exp
+venkatadri	12798	venkatadri exp
+12805	12805	janmabhoomi exp
+janmabhoomi	12805	janmabhoomi exp
+12806	12806	janmabhoomi exp
+janmabhoomi	12806	janmabhoomi exp
+12975	12975	jaipur express
+jaipur	12975	jaipur express
+12976	12976	jp mysore exp
+jp mysore	12976	jp mysore exp
+15015	15015	gkp ypr express
+gkp ypr	15015	gkp ypr express
+15016	15016	ypr gorakpur ex
+ypr gorakpur	15016	ypr gorakpur ex
+15023	15023	gkp ypr exp
+gkp ypr	15023	gkp ypr exp
+15024	15024	ypr gkp exp
+ypr gkp	15024	ypr gkp exp
+16003	16003	mas nsl express
+mas nsl	16003	mas nsl express
+16004	16004	nsl mas wkly ex
+nsl mas wkly	16004	nsl mas wkly ex
+16353	16353	kcg ncj exp
+kcg ncj	16353	kcg ncj exp
+16354	16354	kacheguda exp
+kacheguda	16354	kacheguda exp
+16569	16569	ypr kcg exp
+ypr kcg	16569	ypr kcg exp
+16570	16570	kcg ypr exp
+kcg ypr	16570	kcg ypr exp
+16733	16733	rmm okha expres
+rmm okha	16733	rmm okha expres
+16734	16734	rameswaram exp
+rameswaram	16734	rameswaram exp
+17001	17001	snsi sc exp
+snsi sc	17001	snsi sc exp
+17002	17002	sc snsi exp
+sc snsi	17002	sc snsi exp
+17005	17005	hyb rxl express
+hyb rxl	17005	hyb rxl express
+17006	17006	dbg hyb express
+dbg hyb	17006	dbg hyb express
+17007	17007	sc dbg express
+sc dbg	17007	sc dbg express
+17008	17008	dbg sc express
+dbg sc	17008	dbg sc express
+17013	17013	pune hyb expres
+pune hyb	17013	pune hyb expres
+17014	17014	hyb pune exp
+hyb pune	17014	hyb pune exp
+17015	17015	visakha express
+visakha	17015	visakha express
+17016	17016	visakha exp
+visakha	17016	visakha exp
+17017	17017	rjt sc express
+rjt sc	17017	rjt sc express
+17018	17018	rajkot express
+rajkot	17018	rajkot express
+17019	17019	aii hyb exp
+aii hyb	17019	aii hyb exp
+17020	17020	hyb aii exp
+hyb aii	17020	hyb aii exp
+17023	17023	tungabhadra exp
+tungabhadra	17023	tungabhadra exp
+17024	17024	tungabhadra exp
+tungabhadra	17024	tungabhadra exp
+17025	17025	mugr sc express
+mugr sc	17025	mugr sc express
+17026	17026	sc mugr express
+sc mugr	17026	sc mugr express
+17031	17031	hyderabad exp
+hyderabad	17031	hyderabad exp
+17032	17032	mumbai exp
+mumbai	17032	mumbai exp
+17035	17035	kaghaznagar exp
+kaghaznagar	17035	kaghaznagar exp
+17036	17036	kaghaznagar exp
+kaghaznagar	17036	kaghaznagar exp
+17037	17037	sc bkn exp
+sc bkn	17037	sc bkn exp
+17038	17038	bkn sc exp
+bkn sc	17038	bkn sc exp
+17057	17057	devagiri exp
+devagiri	17057	devagiri exp
+17058	17058	devagiri exp
+devagiri	17058	devagiri exp
+17063	17063	ajanta express
+ajanta	17063	ajanta express
+17064	17064	ajanta express
+ajanta	17064	ajanta express
+17201	17201	golconda exp
+golconda	17201	golconda exp
+17202	17202	golconda exp
+golconda	17202	golconda exp
+17203	17203	bvc kakinada ex
+bvc kakinada	17203	bvc kakinada ex
+17204	17204	coa bvc express
+coa bvc	17204	coa bvc express
+17205	17205	snsi coa exp
+snsi coa	17205	snsi coa exp
+17206	17206	coa snsi exp
+coa snsi	17206	coa snsi exp
+17207	17207	snsi bza exp
+snsi bza	17207	snsi bza exp
+17208	17208	bza snsi exp
+bza snsi	17208	bza snsi exp
+17213	17213	ns nsl exp
+ns nsl	17213	ns nsl exp
+17214	17214	nsl ns exp
+nsl ns	17214	nsl ns exp
+17221	17221	coa ltt expres
+coa ltt	17221	coa ltt expres
+17222	17222	ltt coa express
+ltt coa	17222	ltt coa express
+17229	17229	sabari express
+sabari	17229	sabari express
+17230	17230	sabari exp
+sabari	17230	sabari exp
+17231	17231	ns nsl exp
+ns nsl	17231	ns nsl exp
+17232	17232	nsl ns exp
+nsl ns	17232	nsl ns exp
+17233	17233	bhagyanagar exp
+bhagyanagar	17233	bhagyanagar exp
+17234	17234	bhagyanagar exp
+bhagyanagar	17234	bhagyanagar exp
+17249	17249	mtm sc exp
+mtm sc	17249	mtm sc exp
+17250	17250	machiliptnm exp
+machiliptnm	17250	machiliptnm exp
+17255	17255	ns hydrabad exp
+ns hydrabad	17255	ns hydrabad exp
+17256	17256	narasapur exp
+narasapur	17256	narasapur exp
+17319	17319	secundrabad exp
+secundrabad	17319	secundrabad exp
+17320	17320	sc ubl exp
+sc ubl	17320	sc ubl exp
+17405	17405	krishna express
+krishna	17405	krishna express
+17406	17406	krishna exp
+krishna	17406	krishna exp
+17429	17429	rayalaseema exp
+rayalaseema	17429	rayalaseema exp
+17430	17430	rayalaseema exp
+rayalaseema	17430	rayalaseema exp
+17603	17603	kcg ypr exp
+kcg ypr	17603	kcg ypr exp
+17604	17604	kacheguda exp
+kacheguda	17604	kacheguda exp
+17605	17605	maq kcg express
+maq kcg	17605	maq kcg express
+17606	17606	kcg maq exp
+kcg maq	17606	kcg maq exp
+17615	17615	kcg mdu exp
+kcg mdu	17615	kcg mdu exp
+17616	17616	kacheguda exp
+kacheguda	17616	kacheguda exp
+17639	17639	kcg ak exp
+kcg ak	17639	kcg ak exp
+17640	17640	ak kcg exp
+ak kcg	17640	ak kcg exp
+17651	17651	kacheguda exp
+kacheguda	17651	kacheguda exp
+17652	17652	kcg ms exp
+kcg ms	17652	kcg ms exp
+18111	18111	tata ypr exp
+tata ypr	18111	tata ypr exp
+18112	18112	ypr tata exp
+ypr tata	18112	ypr tata exp
+18309	18309	nagavali expres
+nagavali	18309	nagavali expres
+18310	18310	nagawali  exp
+nagawali	18310	nagawali  exp
+18503	18503	vskp snsi ex
+vskp snsi	18503	vskp snsi ex
+18504	18504	snsi vskp exp
+snsi vskp	18504	snsi vskp exp
+18509	18509	vskp ned expres
+vskp ned	18509	vskp ned expres
+18510	18510	ned vskp exp
+ned vskp	18510	ned vskp exp
+18519	18519	vskp ltt expres
+vskp ltt	18519	vskp ltt expres
+18520	18520	ltt vskp exp
+ltt vskp	18520	ltt vskp exp
+18645	18645	east coast exp
+east coast	18645	east coast exp
+18646	18646	east coast exp
+east coast	18646	east coast exp
+19201	19201	sc pbr exp
+sc pbr	19201	sc pbr exp
+19202	19202	pbr sc express
+pbr sc	19202	pbr sc express
+19301	19301	yeshvantpur exp
+yeshvantpur	19301	yeshvantpur exp
+19302	19302	ypr indb exp
+ypr indb	19302	ypr indb exp
+19713	19713	jp sc exp
+jp sc	19713	jp sc exp
+19714	19714	sc jp exp
+sc jp	19714	sc jp exp
+22117	22117	kcg double deck
+kcg double deck	22117	kcg double deck
+22118	22118	gnt double deck
+gnt double deck	22118	gnt double deck
+22119	22119	kcg double deck
+kcg double deck	22119	kcg double deck
+22120	22120	tpty double dec
+tpty double dec	22120	tpty double dec
+22203	22203	sc duronto exp
+sc duronto	22203	sc duronto exp
+22204	22204	vskp duronto e
+vskp duronto	22204	vskp duronto e
+22679	22679	svdk premium ex
+svdk premium	22679	svdk premium ex
+22680	22680	svdk ypr premiu
+svdk ypr premiu	22680	svdk ypr premiu
+22683	22683	ypr lko exp
+ypr lko	22683	ypr lko exp
+22684	22684	lko ypr sup
+lko ypr sup	22684	lko ypr sup
+22691	22691	rajdhani exp
+rajdhani	22691	rajdhani exp
+22692	22692	banglore rjdhni
+banglore rjdhni	22692	banglore rjdhni
+22693	22693	rajdhani exp
+rajdhani	22693	rajdhani exp
+22694	22694	banglore rajdhn
+banglore rajdhn	22694	banglore rajdhn
+22849	22849	shm sc wkly exp
+shm sc wkly	22849	shm sc wkly exp
+22850	22850	sc shm wkly ex
+sc shm wkly	22850	sc shm wkly ex
+22881	22881	pune bbs expres
+pune bbs	22881	pune bbs expres
+22882	22882	bbs pune exp
+bbs pune	22882	bbs pune exp
+57129	57129	bolarum passr
+bolarum	57129	bolarum passr
+57130	57130	hyb bjp psgr
+hyb bjp	57130	hyb bjp psgr
+57305	57305	kcggnt pass
+kcggnt	57305	kcggnt pass
+57306	57306	gnt kcg  pass
+gnt kcg	57306	gnt kcg  pass
+57549	57549	aurangabad psgr
+aurangabad	57549	aurangabad psgr
+57550	57550	hyderabad pass
+hyderabad	57550	hyderabad pass
+57563	57563	hyb pbn pas
+hyb pbn pas	57563	hyb pbn pas
+57564	57564	ned hyb pas
+ned hyb pas	57564	ned hyb pas
+57619	57619	ral sc fastpass
+ral sc fastpass	57619	ral sc fastpass
+57620	57620	kcg ral fastpas
+kcg ral fastpas	57620	kcg ral fastpas
+57625	57625	kakatiya  f  pa
+kakatiya  f  pa	57625	kakatiya  f  pa
+57626	57626	kakathiya  f ps
+kakathiya	57626	kakathiya  f ps
+57651	57651	sc ral passenge
+sc ral	57651	sc ral passenge
+57652	57652	ral sc passenge
+ral sc	57652	ral sc passenge

@@ -1,0 +1,7 @@
+D:\learning\TaskHackathonSTCI\DataModels\bin\Release\DataModels.dll
+D:\learning\TaskHackathonSTCI\DataModels\bin\Release\DataModels.pdb
+D:\learning\TaskHackathonSTCI\DataModels\bin\Release\Newtonsoft.Json.dll
+D:\learning\TaskHackathonSTCI\DataModels\bin\Release\Newtonsoft.Json.xml
+D:\learning\TaskHackathonSTCI\DataModels\obj\Release\DataModels.dll
+D:\learning\TaskHackathonSTCI\DataModels\obj\Release\DataModels.pdb
+D:\learning\TaskHackathonSTCI\DataModels\obj\Release\DataModels.csprojResolveAssemblyReference.cache

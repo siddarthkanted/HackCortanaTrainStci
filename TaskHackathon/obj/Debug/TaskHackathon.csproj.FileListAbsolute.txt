@@ -1,0 +1,16 @@
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Destination.txt
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\texteditor.txt
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\TaskHackathon.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\TaskHackathon.pdb
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\DataModels.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Newtonsoft.Json.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\DataModels.pdb
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Newtonsoft.Json.xml
+D:\learning\TaskHackathonSTCI\TaskHackathon\obj\Debug\TaskHackathon.csprojResolveAssemblyReference.cache
+D:\learning\TaskHackathonSTCI\TaskHackathon\obj\Debug\TaskHackathon.dll
+D:\learning\TaskHackathonSTCI\TaskHackathon\obj\Debug\TaskHackathon.pdb
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Station_StationCode_StationName.tsv
+D:\learning\TaskHackathonSTCI\TaskHackathon\bin\Debug\Train_TrainNumber_TrainName.tsv
