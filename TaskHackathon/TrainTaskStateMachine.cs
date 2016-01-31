@@ -206,7 +206,7 @@ namespace TaskHackathon
 
         private void FillTrainList(ChatItem chatItem, string source, string destination)
         {
-            List<TrainData> trainDataList = TrainUtil.DownlondJsonFromUrl(source, destination);
+            List<Train> trainDataList = TrainUtil.DownlondJsonFromUrl(source, destination);
             List<string> stringList = TrainUtil.ConvertTrainDataListToStringList(trainDataList);
            
             chatItem.ChatList = stringList;

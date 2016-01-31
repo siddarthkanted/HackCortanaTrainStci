@@ -22,12 +22,6 @@
         <Variable name="WaRoleType" value="IISWebRole" />
       </Environment>
     </Task>
-    <Task commandLine="ConfigureIIS.cmd &gt; WebDeployConfig.log" executionContext="elevated" relativePath="plugins\WebDeploy">
-      <Environment>
-        <Variable name="RdModuleName" value="WebDeploy" />
-        <Variable name="WaRoleType" value="IISWebRole" />
-      </Environment>
-    </Task>
   </Startup>
   <Runtime>
     <EntryPoint>
@@ -54,11 +48,11 @@
     <Property name="OutputDir" value="D:\learning\TaskHackathonSTCI\TaskHackathonSTCI\obj\Debug\TaskHackathonWebService\" />
     <Property name="EntryPoint" value="TaskHackathonWebService.dll" />
     <Property name="SourceDir" value="D:\learning\TaskHackathonSTCI\TaskHackathonWebService\" />
-    <Property name="SitePhysicalPath" value="D:\learning\TaskHackathonSTCI\TaskHackathonSTCI\obj\Debug\TaskHackathonWebService\" />
+    <Property name="SitePhysicalPath" value="D:\learning\TaskHackathonSTCI\TaskHackathonWebService\" />
     <Property name="TargetRuntimeVersion" value="v4.0" />
   </Properties>
   <Sites>
-    <Site name="Web" physicalDirectory="D:\learning\TaskHackathonSTCI\TaskHackathonSTCI\obj\Debug\TaskHackathonWebService\">
+    <Site name="Web" physicalDirectory="D:\learning\TaskHackathonSTCI\TaskHackathonWebService\">
       <Bindings>
         <Binding name="Endpoint1" endpointName="Endpoint1" />
       </Bindings>

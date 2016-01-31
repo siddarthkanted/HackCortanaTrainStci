@@ -2,6 +2,5 @@ D:\learning\TaskHackathonSTCI\DataModels\bin\Debug\DataModels.dll
 D:\learning\TaskHackathonSTCI\DataModels\bin\Debug\DataModels.pdb
 D:\learning\TaskHackathonSTCI\DataModels\bin\Debug\Newtonsoft.Json.dll
 D:\learning\TaskHackathonSTCI\DataModels\bin\Debug\Newtonsoft.Json.xml
-D:\learning\TaskHackathonSTCI\DataModels\obj\Debug\DataModels.csprojResolveAssemblyReference.cache
 D:\learning\TaskHackathonSTCI\DataModels\obj\Debug\DataModels.dll
 D:\learning\TaskHackathonSTCI\DataModels\obj\Debug\DataModels.pdb
