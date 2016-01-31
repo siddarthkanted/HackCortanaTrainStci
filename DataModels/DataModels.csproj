@@ -60,7 +60,8 @@
     <Compile Include="Common\Station.cs" />
     <Compile Include="Common\TaskStateCode.cs" />
     <Compile Include="Common\TrainInfo.cs" />
-    <Compile Include="Helper\TrainDetail.cs" />
+    <Compile Include="Helper\Train.cs" />
+    <Compile Include="Helper\TrainDataController.cs" />
     <Compile Include="Helper\TrainUtil.cs" />
     <Compile Include="Profile\Person.cs" />
     <Compile Include="Profile\Relation.cs" />
@@ -70,6 +71,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Helper\Trains_Hyd_SC_KCG.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
