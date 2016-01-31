@@ -21,6 +21,8 @@ namespace TaskHackathon
 
         private Classifier classifier;
 
+        private UserProfileHelper profileHelper;
+
         private void InitializeChatItemMap()
         {
             _chatItemMap = new Dictionary<TaskStateCode, string>()
@@ -50,6 +52,8 @@ namespace TaskHackathon
             blobStorage = new StorageBlob(connectionString, containterName);
 
             classifier = new Classifier();
+
+            profileHelper = new UserProfileHelper();
         }
 
         public ChatItem GetUserChatItem(string userId, string query)
@@ -188,7 +192,7 @@ namespace TaskHackathon
                 case TaskStateCode.BookTicketState:
                     break;
                 case TaskStateCode.EndState:
-                    // update profile
+                    profileHelper.UpdateUserProfile(taskState, profile);
                     break;
                 default:
                     break;
@@ -199,39 +203,6 @@ namespace TaskHackathon
             answer.ChatWindow.ChatList.Add(chatItem);
             return answer;
         }
-
-        private void UpdateUserProfile(TrainBookingState taskState, UserProfile userProfile)
-        {
-            // Update the passangers
-
-            var knownPeopleList = userProfile.KnownPeopleList;
-
-            if (knownPeopleList == null)
-            {
-                knownPeopleList = new List<Person>();
-            }
-
-            foreach (var passenger in taskState.PassangerInfoList)
-            {
-                string name = passenger.Name;
-
-                Person person =
-                    knownPeopleList.FirstOrDefault(
-                        x => x.Name.Equals(passenger.Name, StringComparison.OrdinalIgnoreCase));
-
-                if (person == null)
-                {
-                    
-                }
-
-
-            }
-
-
-            // Update the trains
-
-        }
-
 
         private void FillTrainList(ChatItem chatItem, string source, string destination)
         {
@@ -450,18 +421,16 @@ namespace TaskHackathon
             if (string.IsNullOrEmpty(profileString))
             {
                 userProfile = new UserProfile();
+                userProfile.UserId = userId;
+                userProfile.MyProfile = new Person();
+                userProfile.MyProfile.Name = userId;
             }
-
-
-
-
+            
             // TODO: Classify the Query
             //answer = DummyUpdateAnswer(query, queryType, answer);
             // TODO: Run the state machine on Classifier Output
-
             
             // Update Profile
-
             answer = RunState(answer, userProfile, query, queryType);
            
                         

@@ -8,6 +8,8 @@ namespace DataModels.Profile
 {
     public class UserProfile
     {
+        public string UserId;
+
         public Person MyProfile;
 
         public string HomeTown;

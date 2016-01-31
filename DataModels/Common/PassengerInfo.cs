@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using DataModels.Profile;
 
 namespace DataModels.Common
 {
@@ -16,6 +17,7 @@ namespace DataModels.Common
             Gender = Gender.None;
             BerthChoice = BerthChoice.None;
             IsComplete = false;
+            Relation = Relation.Other;
         }
 
         public uint Id;
@@ -27,6 +29,8 @@ namespace DataModels.Common
         public Gender Gender;
 
         public BerthChoice BerthChoice;
+
+        public Relation Relation;
 
         public bool IsComplete;
     }

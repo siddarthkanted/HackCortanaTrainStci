@@ -11,11 +11,13 @@ namespace DataModels.Profile
     {
         public string Name;
 
-        public string DoB;
+        public DateTime DoB;
 
         public Gender Gender;
 
         public Relation Relation;
+
+        public BerthChoice BerthChoice;
 
         public string ContactNumber;
     }

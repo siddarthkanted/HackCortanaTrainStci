@@ -57,6 +57,7 @@
     <Compile Include="StorageBlob.cs" />
     <Compile Include="TaskHackathonEnvironment.cs" />
     <Compile Include="TrainTaskStateMachine.cs" />
+    <Compile Include="UserProfileHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
